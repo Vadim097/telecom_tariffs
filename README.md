@@ -1,0 +1,2 @@
+# telecom_tariffs
+Megaline is a federal mobile operator. The company offers customers two tariff plans: "Smart" and "Ultra". To adjust the advertising budget, the commercial department wants to understand which tariff brings in more money. It is necessary to make a preliminary analysis of tariffs on a small sample of customers. It is necessary to analyze the behavior of customers and draw a conclusion - which tariff is better.
