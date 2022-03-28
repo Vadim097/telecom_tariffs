@@ -8,7 +8,7 @@ Megaline is a federal mobile operator. The company offers customers two tariff p
 
 **Research progress:**
 
-Data review.
-Data preprocessing.
-Hypothesis testing. conclusion for each hypothesis.
-General conclusion.
+# Data review.
+# Data preprocessing.
+# Hypothesis testing. conclusion for each hypothesis.
+# General conclusion.
